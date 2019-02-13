@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/posts/post",
+    "pages/welcome/welcome",
+    "pages/posts/post-detail/post-detail",
+    "pages/movies/stars/movies",
+    "pages/movies/movie-list/movie-list-template",
+    "pages/movies/movie-grid/movie-grid-template",
+    "pages/movies/movie-detail/movie-detail",
+    "pages/movies/movie/movie-template",
+    "pages/movies/more-movie/more-movie"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
